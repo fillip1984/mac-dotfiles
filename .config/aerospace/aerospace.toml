@@ -97,7 +97,7 @@ outer.right = 8
 
 # Apps
 alt-b = 'exec-and-forget open "https://google.com"'
-alt-c = 'exec-and-forget open -a /Applications/Visual\ Studio\ Code.app'
+alt-c = 'exec-and-forget /usr/local/bin/code -n'
 alt-f = 'exec-and-forget open ~'
 alt-enter = 'exec-and-forget kitty ~'
 
